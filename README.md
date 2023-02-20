@@ -9,6 +9,7 @@
 [![Join the chat at https://gitter.im/awesto/django-shop](https://badges.gitter.im/awesto/django-shop.svg)](https://gitter.im/awesto/django-shop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Software license](https://img.shields.io/pypi/l/django-shop.svg)](https://pypi.python.org/pypi/django-shop)
 [![Twitter Follow](https://img.shields.io/twitter/follow/djangoSHOP.svg?style=social&label=djangoSHOP)](https://twitter.com/djangoSHOP)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAmandap1996%2Fdjango-shop.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAmandap1996%2Fdjango-shop?ref=badge_shield)
 
 Here you can find the [full documentation for django-SHOP](https://django-shop.readthedocs.io/en/latest/).
 
@@ -116,3 +117,7 @@ on **django-SHOP**. Please contact office@awesto.com for further questions.
 Read the full documentation on Read-the-docs:
 
 [https://django-shop.readthedocs.io/en/latest/](https://django-shop.readthedocs.io/en/latest/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAmandap1996%2Fdjango-shop.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAmandap1996%2Fdjango-shop?ref=badge_large)
