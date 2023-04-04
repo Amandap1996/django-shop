@@ -3,7 +3,7 @@ beautifulsoup4==4.8.0
 certifi==2019.3.9
 chardet==3.0.4
 django-admin-sortable2==0.7.6
-django-allauth==0.40.0
+django-allauth==0.54.0
 django-angular==2.3
 django-appconf==1.0.3
 django-classy-tags==1.0.0
